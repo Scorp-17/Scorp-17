@@ -175,8 +175,7 @@ h3 {
     margin-bottom: 20px;
 }
 
-@media (max-width: 768px) {
-    .skills-section .skill-column {
+@media screen and (min-width: 400px) and (max-width: 1599px) {}    .skills-section .skill-column {
         flex-basis: 100%;
     }
 }
